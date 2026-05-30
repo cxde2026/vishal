@@ -1,0 +1,21 @@
+{
+  "name": "vishal-portfolio",
+  "version": "1.0.0",
+  "description": "Marketing Strategist Portfolio - Vishal Dhinakar",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 5173"
+  },
+  "keywords": [
+    "portfolio",
+    "marketing",
+    "strategist",
+    "growth",
+    "business"
+  ],
+  "author": "Vishal Dhinakar",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
